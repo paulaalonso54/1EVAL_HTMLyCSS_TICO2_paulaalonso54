@@ -1,0 +1,11 @@
+span.oblique{
+    font-style: oblique;
+}
+
+span.negrita{
+    font-weight: bolder;
+}
+
+span.pequeño{
+    font-size: smaller;
+}
