@@ -9,3 +9,10 @@ span.negrita{
 span.pequeño{
     font-size: smaller;
 }
+
+ul{
+    list-style-type: circle;
+}
+ol{
+    list-style-image:url(img/icono\ listas\ \(2\).jpg);
+}
